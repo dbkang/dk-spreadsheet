@@ -1,0 +1,10 @@
+{
+  "name": "dk-spreadsheet",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bower": "1.3.1",
+    "karma": "0.12",
+    "phantomjs": "1.9.7-1",
+    "grunt": "0.4.4"
+  }
+}

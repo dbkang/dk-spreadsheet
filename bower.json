@@ -1,0 +1,15 @@
+{
+  "name": "dk-spreadsheet",
+  "version": "0.0.1",
+  "main": "",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular": "*"
+  },
+  "devDependencies": {
+
+  }
+}
